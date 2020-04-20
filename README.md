@@ -1,4 +1,4 @@
-# calibrate-rssi
+# estimate-distance using rssi ("rssi calibration")
 Exeprmintal application that runs in background, collects data - RSSI, distance, phone model, phone position
 
 ## Distance calculation
